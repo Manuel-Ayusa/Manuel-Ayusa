@@ -7,7 +7,8 @@
 - 📫 Mi correo electrónico para contactarme: ayusamanuel6@gmail.com o pueden encontrar mis redes sociales en mi perfil.
 - ⚡ Dato curioso: Me gusta el futbol e ir al Gym.
 
-![html5 (1)](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/2e7be8c9-5688-49d4-b952-2ff5cae5c6cf) ![css3 (1)](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/1ccb4910-c9e7-4fa2-a482-d83a52939b49)    ![js](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/a4b2766c-32f6-400e-83ae-493f05bff9fd) ![php_logo_icon_214645 (1)](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/08ebcef5-fdca-4657-a0a1-29344a2e3092) ![MariaDB_Logo d8a208f0a889a8f0f0551b8391a065ea79c54f3a](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/ec1bbf10-2be6-465b-ab8e-f933bde394a5) ![descarga](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/68d88bce-6e16-4257-969e-1d27847dd766)
+![html5 (1)](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/2e7be8c9-5688-49d4-b952-2ff5cae5c6cf)  ![css3 (2)](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/464009d8-2925-4cbd-88d2-b3f0fcce21e6) ![js (1)](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/5a36c3aa-7f5e-4a9a-b79d-b3601700d5d9)
+ ![php_logo_icon_214645 (2)](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/bb076695-b4b8-452d-befd-949d79d983c6) ![MariaDB_Logo d8a208f0a889a8f0f0551b8391a065ea79c54f3a (1)](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/5826df3c-b6f2-4166-a446-e8e9875d3b85) ![descarga (1)](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/14d38019-6e84-4304-b02f-401477787637)
 
 
 
