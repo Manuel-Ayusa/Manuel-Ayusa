@@ -4,7 +4,7 @@
 - Mis habilidades tecnicas: HTML5, CSS3, JavaScript, Bootstrap, PHP, MySQL(MariaDB), Git, GitHub. Programacion estructurada; Programacion orientada a objetos; Patron de arquitectura MVC para el desarrollo de aplicaciones web.   
 - 🌱Actualmente estoy aprendiendo a utilizar el framework de PHP Laravel para agilizar mis proyectos.
 - 💞️ Busco colaborar en proyectos referidos al desarrollo y programacion web.
-- 📫 Mi correo electrónico para contactarme: ayusamanuel6@gmail.com o pueden encontrar mis redes sociales en mi perfil.
+- 📫 Para contactarme pueden encontrar mis redes sociales en mi perfil.
 - ⚡ Dato curioso: Me gusta el futbol e ir al Gym.
 
 ![html5 (1)](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/2e7be8c9-5688-49d4-b952-2ff5cae5c6cf)  ![css3 (2)](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/464009d8-2925-4cbd-88d2-b3f0fcce21e6) ![js (1)](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/5a36c3aa-7f5e-4a9a-b79d-b3601700d5d9)
