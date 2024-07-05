@@ -1,5 +1,5 @@
 - 👋 Hola, soy @Manuel-Ayusa
-- 👀 Estoy interesado en la Programacion.
+- 👀 Soy Programador.
 - Actualmente me especializo en el desarrollo web front-end y back-end.
 - Mis habilidades tecnicas: HTML5, CSS3, JavaScript, Bootstrap, PHP, MySQL(MariaDB), Laravel,Git, GitHub. Programacion estructurada; Programacion orientada a objetos; Patron de arquitectura MVC.   
 - 💞️ Busco colaborar en proyectos referidos al desarrollo y programacion web.
