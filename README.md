@@ -1,9 +1,9 @@
-- 👋 Hola, soy @Manuel-Ayusa
-- 👀 Soy Programador y Desarrollador Web.
-- Actualmente me especializo en el desarrollo web front-end y back-end.
-- Mis habilidades tecnicas: HTML5, CSS3, JavaScript, Bootstrap, PHP, MySQL(MariaDB), Laravel,Git, GitHub. Programacion estructurada; Programacion orientada a objetos; Patron de arquitectura MVC.   
-- 💞️ Busco colaborar en proyectos referidos al desarrollo y programacion web.
-- 📫 Para contactarme pueden encontrar mis redes sociales en mi perfil.
+- 👋 Hola, soy Manuel Ayusa
+- 👀 Soy Desarrollador Web back-end.
+- Actualmente me especializo en el desarrollo de aplicaciones web con PHP y Laravel.
+- Mis habilidades tecnicas: PHP, MySQL, Laravel, JavaScript, Tailwind, Livewire, Bootstrap, HTML5, CSS3, Git, GitHub.  
+- 💞️ Busco colaborar en proyectos referidos al desarrollo y programación web.
+- 📫 Para contactarme pueden hacerlo por mensaje privado por este medio o encontrar mis redes sociales en mi perfil.
 - ⚡ Dato curioso: Me gusta el futbol e ir al Gym.
 
  ![php_logo_icon_214645 (2)](https://github.com/Manuel-Ayusa/Manuel-Ayusa/assets/166891950/bb076695-b4b8-452d-befd-949d79d983c6)
