@@ -1,17 +1,20 @@
-## Hola, soy Manuel Ayusa
+# Hola, soy Manuel Ayusa
 
 👨‍💻 Soy programador y desarrollador web back-end, especializado en la creación de aplicaciones web con <b>PHP</b> y el framework <b>Laravel</b>. <br>
 
 ## 🛠️ Habilidades técnicas
- •Lenguajes de programación: PHP, SQL, JavaScript, C <br>
- •Lenguajes de marcado y estilos: HTML, CSS <br>
- •Frameworks y librerías: Laravel, Tailwind CSS, Livewire, Bootstrap, Vue.js <br>
- •Herramientas: MySQL, MariaDB, Git, GitHub, Postman, Swagger <br>
- •Aquí encontrarás algunos de los proyectos que desarrollé durante mi formación en la facultad, como autodidacta y en cursos de distintas plataformas. <br>
+ •<b>Lenguajes de programación</b>: PHP, SQL, JavaScript, C <br>
+ •<b>Lenguajes de marcado y estilos</b>: HTML, CSS <br>
+ •<b>Frameworks y librerías</b>: Laravel, Tailwind CSS, Livewire, Bootstrap, Vue.js <br>
+ •<b>Herramientas</b>: MySQL, MariaDB, Git, GitHub, Postman, Swagger <br>
+
+ ## Mis repositorios
+ Aquí encontrarás algunos de los proyectos que desarrollé durante mi formación en la facultad, como autodidacta y en cursos de distintas plataformas. <br>
 
 💡 Estoy buscando colaborar en proyectos relacionados con el desarrollo de software y la programación web. <br>
 
-⚽ Dato curioso: Me apasiona el fútbol y disfruto ir al gimnasio. <br>
+## ⚽ Dato curioso
+Me gusta el fútbol y disfruto de ir al gimnasio. <br>
 
 ## 📩 ¿Quieres contactarme?
 Si te interesa mi trabajo, tenes los mismos intereses que yo o crees que te puedo ayudar en algo, no dudes en escribirme: <br>
